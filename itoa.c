@@ -1,3 +1,4 @@
+#define INT_DIGITS 19 
 char *itoa(i)
 {
 	/* Room for INT_DIGITS digits, - and '\0' */
